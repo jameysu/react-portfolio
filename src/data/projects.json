@@ -1,0 +1,10 @@
+[
+  {
+    "title": "DENR CENRO Document Tracking System",
+    "imageSrc": "projects/polaris.png",
+    "description": "A system which main purpose is filling of requests and applications in DENR CENRO and tracking the status of the request.",
+    "skills": ["React", "Express", "Node", "Supabase"],
+    "demo": "https://polaris-five-gamma.vercel.app/",
+    "source": "https://github.com/jameysu/polaris"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "Paynamics Technologies Inc.",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on UI and Backend Integration",
+      "Developed CRON Jobs for automated tasks",
+      "Implemented RESTful APIs"
+    ],
+    "imageSrc": "history/paynamics.png"
+  },
+  {
+    "role": "Design Engineer",
+    "organisation": "Tsukiden Global Solutions Inc.",
+    "startDate": "Sept, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": [
+      "Java and Spring Boot Training",
+      "Software tester in one of clients"
+    ],
+    "imageSrc": "history/tsukiden.png"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/ts.png"
+  },
+  {
+    "title": "Kotlin",
+    "imageSrc": "skills/kotlin.png"
+  },
+  {
+    "title": "Go",
+    "imageSrc": "skills/go.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Next.js",
+    "imageSrc": "skills/next.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongo.png"
+  },
+  {
+    "title": "PosgreSQL",
+    "imageSrc": "skills/posgres.png"
+  }
+]
