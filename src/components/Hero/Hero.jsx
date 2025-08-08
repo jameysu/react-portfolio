@@ -20,7 +20,7 @@ export const Hero = () => {
             Contact Me
           </a>
           <a
-            href="https://drive.google.com/file/d/1xr2ltDk-3s7tuHeAkHRqQGmKsNGd46Am/view"
+            href="https://drive.google.com/file/d/1kT-K5oJDWjyLSyVlR2dO5E-9ocZ1d5uo/view"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.downloadBtn}
